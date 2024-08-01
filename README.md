@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/90dce769-15df-47d4-98ba-557a1e1d46bf)
+![image](https://github.com/user-attachments/assets/99ef5b96-8af4-4ea5-9c39-96ae6c96ee50)
+![image](https://github.com/user-attachments/assets/e3ac250d-f9c9-4033-97bf-ebc97100652f)
+
+
+
 # AmazonWebsiteClone
 📄 Project Overview
 Welcome to the Amazon Clone project! This project aims to replicate the front-end interface of Amazon, providing a similar user experience. The clone includes key features such as the navigation bar, search functionality, hero section, and footer, all styled to resemble the original Amazon website.
