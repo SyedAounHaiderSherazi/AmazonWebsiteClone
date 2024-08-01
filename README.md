@@ -70,5 +70,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 If you have any questions or feedback, feel free to reach out.
 
 Enjoy your new Amazon Clone! Happy coding! 💻✨
-
-Feel free to customize this README file further according to your preferences and specific details about your project.
